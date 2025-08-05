@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT(firstname, lastname)) 
+FROM professors;
